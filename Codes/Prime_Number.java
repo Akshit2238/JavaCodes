@@ -1,5 +1,4 @@
 package Codes;
-package lib.College;
 
 import java.util.Scanner;
 
