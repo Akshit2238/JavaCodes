@@ -1,3 +1,4 @@
+package Codes;
 public class Constroctor {
     int a;
     String name;
