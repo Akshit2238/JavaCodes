@@ -13,5 +13,7 @@ public class Right_Triangle {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
+

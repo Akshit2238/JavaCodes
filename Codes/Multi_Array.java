@@ -23,5 +23,7 @@ public class Multi_Array {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
+

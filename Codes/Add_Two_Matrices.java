@@ -35,5 +35,7 @@ public class Add_Two_Matrices {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
+

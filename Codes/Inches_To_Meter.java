@@ -9,5 +9,7 @@ public class Inches_To_Meter {
         double a = sc.nextDouble();
         double meter = a * 0.0254;
         System.out.println("Inches into meter: " + meter);
+        sc.close();
     }
 }
+
