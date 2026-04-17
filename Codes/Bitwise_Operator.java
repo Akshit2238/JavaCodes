@@ -1,4 +1,3 @@
-package Codes;
 
 import java.util.Scanner;
 

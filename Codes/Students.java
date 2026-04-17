@@ -1,4 +1,3 @@
-package Codes;
 public class Students {
     String name;
     int rollno;

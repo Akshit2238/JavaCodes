@@ -1,4 +1,3 @@
-package Codes;
 class Vehicle {
     public void run() {
         System.out.println("Vehicle can run");

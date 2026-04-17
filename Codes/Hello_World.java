@@ -1,4 +1,3 @@
-package Codes;
 
 public class Hello_World {
 

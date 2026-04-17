@@ -1,4 +1,3 @@
-package Codes;
 import java.util.Scanner;
 
 public class Sum_Of_Natural_Number {
