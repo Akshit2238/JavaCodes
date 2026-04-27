@@ -1,4 +1,4 @@
-package JavaCodes;
+package JavaCodes.Codes;
 
 abstract class vehicle {
     int No_Of_Wheels;
