@@ -1,3 +1,4 @@
+package JavaCodes.Codes;
 class Living {
     public void run() {
         System.out.println("All Living being have brain ");

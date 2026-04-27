@@ -1,3 +1,4 @@
+package JavaCodes.Codes;
 import java.util.Scanner;
 
 public class Taking_Input {
