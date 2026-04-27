@@ -1,4 +1,4 @@
-package JavaCodes;
+package JavaCodes.Codes;
 
 interface i1 {
     abstract void show();
