@@ -1,8 +1,8 @@
-class Person {
+class PersonPI {
     String name = "Guest";
 }
 public class PersonInfo {
     public static void main(String[] args) {
-        System.out.println(new Person().name);
+        System.out.println(new PersonPI().name);
     }
 }

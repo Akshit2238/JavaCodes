@@ -7,5 +7,6 @@ class Bike {
 public class DefaultConstructor {
     public static void main(String args[]) {
         Bike b = new Bike();
+        System.out.println("Instantiated: " + b.getClass().getSimpleName());
     }
 }

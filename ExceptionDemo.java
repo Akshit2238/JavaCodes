@@ -1,11 +1,18 @@
-public class Exception {
+package lib.College.JavaCodes;
+public class ExceptionDemo {
     public static void main(String[] args) {
         int a = 10;
-      try int b;
-        b = 0;
 
-        int result = a / b;
+        int b;
+        b = 0;
+        try {
+            int result = a / b;
+        } catch (ArithmeticException e) {
+            System.out.println("Arithmetic Exception");
+        }finally{
+            System.out.println("finally");
+
+        System.out.println("akt");
+        }
     }
-    System.out.println(result);
-    
 }
